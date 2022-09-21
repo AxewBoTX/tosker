@@ -2,7 +2,7 @@
 
 ### Sorry but this app is currently not being developed because the dveloper realised that he suck at javascript
 Contact the Dev if you want to ^_^
-[Twitter](https://twitter.com/axewbotx)
+#### [Twitter](https://twitter.com/axewbotx)
 
 # Getting Started with Create React App
 
