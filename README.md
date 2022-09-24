@@ -2,7 +2,9 @@
 
 ### This repository contains the source code for a todo app called [Tosker](https://tosker.netlify.app/) developed by [AxewBoTX](https://axewbotx-links.netlify.app/)
 
-Tosker is a todo with which you can instantly create a list of things that you want accomplish using any preferred device. Tosker offers best performance with great, appealing and easy to understand interface.
+![Tosker Logo And Title](https://user-images.githubusercontent.com/84615670/192099606-cd5dd7c8-d43f-4717-8694-3a3cfb41f0f7.png)
+
+Tosker is a todo with which you can instantly create a list of things that you want accomplish using any preferred device. Tosker offers best performance with great, appealing and easy to understand interface. Tosker also provide **dark/light** theme support.
 
 ### Message the dev on socials regarding any questions or querrys.
 
