@@ -6,7 +6,10 @@ Tosker is a todo with which you can instantly create a list of things that you w
 
 ### Message the dev on socials regarding any questions or querrys.
 
-#### [Website](https://axewbotx-links.netlify.app/) [Twitter](https://twitter.com/axewbotx) [YouTube](https://www.youtube.com/channel/UCrs-_MTVpZB3hAcMu3PCW2w)
+#### 🌐[Website](https://axewbotx-links.netlify.app/) 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="15" widht="15" align="center">[Twitter](https://twitter.com/axewbotx) 
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" widht="15" align="center">[YouTube](https://www.youtube.com/channel/UCrs-_MTVpZB3hAcMu3PCW2w)
 
 # Getting Started with Create React App
 
