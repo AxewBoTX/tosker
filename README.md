@@ -1,8 +1,12 @@
 # Todo App By AxewBoTX
 
-### Sorry but this app is currently not being developed because the dveloper realised that he suck at javascript
-Contact the Dev if you want to ^_^
-#### [Twitter](https://twitter.com/axewbotx)
+### This repository contains the source code for a todo app called [Tosker](https://tosker.netlify.app/) developed by [AxewBoTX](https://axewbotx-links.netlify.app/)
+
+Tosker is a todo with which you can instantly create a list of things that you want accomplish using any preferred device. Tosker offers best performance with great, appealing and easy to understand interface.
+
+### Message the dev on socials regarding any questions or querrys.
+
+#### [Website](https://axewbotx-links.netlify.app/) [Twitter](https://twitter.com/axewbotx) [YouTube](https://www.youtube.com/channel/UCrs-_MTVpZB3hAcMu3PCW2w)
 
 # Getting Started with Create React App
 
@@ -16,6 +20,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -50,27 +55,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
