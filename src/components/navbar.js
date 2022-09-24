@@ -1,6 +1,8 @@
 import { useColorMode,useColorModeValue } from '@chakra-ui/react';
 import {
     Container,
+    Box,
+    Image,
     Heading,
     IconButton,
 } from '@chakra-ui/react';
@@ -18,7 +20,18 @@ function Navbar(){
         justifyContent={'space-between'}
         maxW={'850px'}
         >
+        <Box
+        display={'flex'}
+        justifyContent={'center'}
+        alignItems={'center'}
+        >
+        <Image 
+        src={'assets/tosker.png'}
+        width={'45px'}
+        height={'45px'}
+        />
         <Heading>Tosker</Heading>
+        </Box>
         <IconButton
         colorScheme='cyan'
         icon={useColorModeValue(<MoonIcon/>,<SunIcon/>)}
