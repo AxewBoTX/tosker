@@ -52,6 +52,7 @@ function App() {
             <Task 
             text={task.text}
             remove={() => {removeTask(task.id)}}
+            state={task.done}
             />
         );
     })
@@ -79,7 +80,7 @@ function App() {
       variant={'flushed'}
       value={value}
       onChange={handleChange}
-      maxlength={30}
+      maxlength={25}
       />
       <IconButton 
       icon={<AddIcon/>}
