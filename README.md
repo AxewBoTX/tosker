@@ -13,6 +13,14 @@ Tosker is a todo with which you can instantly create a list of things that you w
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="15" widht="15" align="center">[YouTube](https://www.youtube.com/channel/UCrs-_MTVpZB3hAcMu3PCW2w)
 
+## Screneshots
+
+<img src="https://user-images.githubusercontent.com/84615670/192150449-bced313e-24c5-4932-a210-7ee2eb65c870.png">
+<div>
+<img src="https://user-images.githubusercontent.com/84615670/192150822-e20a33bd-25d7-4f68-b0bb-36f5bfa8c91f.png">
+<img src="https://user-images.githubusercontent.com/84615670/192150910-d0e6bf63-a64a-40c5-bfc3-78bb0865da63.png">
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
