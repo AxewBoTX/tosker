@@ -19,6 +19,7 @@ function Navbar(){
         display={'flex'}
         justifyContent={'space-between'}
         maxW={'850px'}
+        pl={'0px'}
         >
         <Box
         display={'flex'}
