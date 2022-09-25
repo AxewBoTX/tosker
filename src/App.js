@@ -24,7 +24,7 @@ function App() {
     const [tasks,setTasks] = useState([]);
     const toast = useToast();
     const addTask = () => {
-        if (value === ''){
+        if (value === ""){
             toast({
                 title: 'Empty Input!',
                 description: "Sorry but the input cannot be empty.",
